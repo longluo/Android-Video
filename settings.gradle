@@ -1,0 +1,4 @@
+include ':app'
+include ':LibVideo'
+rootProject.name = "Android Video"
+
